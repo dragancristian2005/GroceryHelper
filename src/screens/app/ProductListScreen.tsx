@@ -1,7 +1,7 @@
 import KSpacer from "../../components/KSpacer";
 import { Text } from "react-native";
 
-const HomeScreen = () => {
+const ProductListScreen = () => {
   return (
     <KSpacer>
       <Text>Home Screen</Text>
@@ -9,4 +9,4 @@ const HomeScreen = () => {
   );
 };
 
-export default HomeScreen;
+export default ProductListScreen;
